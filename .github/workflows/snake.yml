@@ -18,9 +18,10 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Avatar palette: cyan, blue, violet, magenta.
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#F859FF&color_dots=#EBEDF0,#BFEFFF,#2CD6FF,#3468FF,#764ADA
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#F859FF&color_dots=#161B22,#123F57,#2CD6FF,#3468FF,#764ADA
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

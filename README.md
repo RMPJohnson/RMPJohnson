@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,55:0c4a6e,100:0ea5e9&height=220&section=header&text=Ray%20Johnson&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Software%20Architect%20%E2%80%A2%20SaaS%20%E2%80%A2%20Security%20%E2%80%A2%20Private%20AI&descSize=20&descAlignY=58&animation=fadeIn" alt="Ray Johnson, Software Architect" width="100%">
+  <img src="assets/banner.svg" alt="Ray Johnson, software architect: SaaS, security, private AI and mobile" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=0EA5E9&center=true&vCenter=true&width=720&lines=12%2B+years+shipping+production+software;Multi-tenant+SaaS+for+the+GCC+%26+Pakistan;Private+AI+that+never+leaves+your+server;End-to-end+encrypted+mobile+platforms;Laravel+%C2%B7+Python+%C2%B7+Flutter+%C2%B7+Kotlin" alt="12+ years shipping production software">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=3468FF&center=true&vCenter=true&width=720&lines=12%2B+years+shipping+production+software;Multi-tenant+SaaS+for+the+GCC+%26+Pakistan;Private+AI+that+never+leaves+your+server;End-to-end+encrypted+mobile+platforms;Laravel+%C2%B7+Python+%C2%B7+Flutter+%C2%B7+Kotlin" alt="12+ years shipping production software">
 </p>
 
 <p align="center">
-  <a href="https://novatecsolution.com"><img src="https://img.shields.io/badge/novatecsolution.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="#lets-work-together"><img src="https://img.shields.io/badge/Open%20to-consulting%20%26%20contracts-22c55e?style=for-the-badge" alt="Open to consulting and contracts"></a>
-  <img src="https://img.shields.io/badge/Pakistan%20%C2%B7%20GCC-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Pakistan, working across the GCC">
+  <a href="https://novatecsolution.com"><img src="https://img.shields.io/badge/novatecsolution.com-3468FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="#lets-work-together"><img src="https://img.shields.io/badge/Open%20to-consulting%20%26%20contracts-764ADA?style=for-the-badge&labelColor=0D0F2B" alt="Open to consulting and contracts"></a>
+  <img src="https://img.shields.io/badge/Pakistan%20%C2%B7%20GCC-0D0F2B?style=for-the-badge&logo=googlemaps&logoColor=2CD6FF" alt="Based in Pakistan, working across the GCC">
 </p>
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
 I design and build the software that businesses trust with **their money, their patients and their children's safety**.
 For 12+ years I've taken products from a blank page to production: architecture, backend, mobile, security, and the infrastructure that keeps it all running.
@@ -178,7 +178,7 @@ Also: `Livewire` `Alpine.js` `Inertia` `shadcn/ui` `Pydantic` `Ollama` `Fluent B
 Have a product to build, a platform to secure or a legacy system to modernise? I'd like to hear about it.
 
 <p>
-  <a href="https://novatecsolution.com"><img src="https://img.shields.io/badge/Website-novatecsolution.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://novatecsolution.com"><img src="https://img.shields.io/badge/Website-novatecsolution.com-3468FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D0F2B" alt="Website"></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,45:0c4a6e,100:0b1220&height=120&section=footer" alt="" width="100%">
+<img src="assets/divider.svg" alt="" width="100%">
